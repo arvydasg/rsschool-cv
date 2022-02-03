@@ -2,8 +2,6 @@
 
 ### Junior Front-end Developer
 
-Labadiena
-
 ----
 
 ### Contact Information:
@@ -79,7 +77,6 @@ Also I have dipped my toes in some of other online courses, but I haven't finish
 
 ----
 
-need a few commits more
 
 ### English:
 
